@@ -70,10 +70,12 @@
 
 - FLOWGORITHM
 
-
+![lingkaran 1 b](https://user-images.githubusercontent.com/92985452/139893820-bf9c2100-50b5-47ba-8e94-4653b9dd1656.png)
+![lingkaran 2](https://user-images.githubusercontent.com/92985452/139894131-c92b9f37-0a0a-400f-b3be-a465c8df4dde.png)
 
 - VSCODE
 
+![vscode lingkaran](https://user-images.githubusercontent.com/92985452/139894450-b38dc620-b7a5-4edc-8032-1578d24dc210.png)
 
 
 
